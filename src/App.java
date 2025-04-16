@@ -5,7 +5,7 @@ public class App {
     public static void main(String[] args) {
         Persona[] personas = new Persona[7];
         personas [0] = new Persona(101, "Juan");
-        personas [1] = new Persona(102, "María");
+        personas [1] = new Persona(102, "Maria");
         personas [2] = new Persona(103, "Carlos");
         personas [3] = new Persona(104, "Ana");
         personas [4] = new Persona(105, "Luis");

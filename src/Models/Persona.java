@@ -27,7 +27,7 @@ public class Persona {
 
     @Override
     public String toString() {
-        return "[code=" + code + ", name=" + name + "]";
+        return "[" + name + ", " + code + "]";
     }
 
     
