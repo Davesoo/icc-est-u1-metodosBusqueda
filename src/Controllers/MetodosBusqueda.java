@@ -22,9 +22,9 @@ public class MetodosBusqueda {
         return -1;
     }
 
-    public void printArray (int[] arreglo){
-        for (int i = 0; i < arreglo.length; i++){
-            System.out.print(arreglo[i] + " ");
+    public void printArray (int[] people){
+        for (int i = 0; i < people.length; i++){
+            System.out.print(people[i] + " ");
         }
         System.out.println();
     }
